@@ -1,7 +1,10 @@
 # MyQuarantine
-MyQuarantine - Prototype for #wirvsvirus Hackathon
 
-<img src="https://raw.githubusercontent.com/pinussilvestrus/wirvsvirus-hackathon-prototype/master/resources/logo.png" height="248" />
+Stay at Home Application. Prototype for #wirvsvirus Hackathon.
+
+<img src="https://raw.githubusercontent.com/pinussilvestrus/wirvsvirus-hackathon-prototype/master/resources/logo.png" height="240" style="display:block; margin-left: auto; margin-right: auto;" />
+
+<br />
 
 _orignal posted on [Devpost](https://devpost.com/software/myquarantine)_.
 
@@ -17,7 +20,7 @@ Der Klick-Prototyp zeigt, wie man innerhalb einer mobilen App häusliche Challen
 
 ## Built with
 
-<a href="https://www.figma.com/" target="_blank"><img src=https://raw.githubusercontent.com/pinussilvestrus/wirvsvirus-hackathon-prototype/master/resources/figma-logo.png" height="128" /></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/pinussilvestrus/wirvsvirus-hackathon-prototype/master/resources/figma-logo.png" height="64" /></a>
 
 ## Links
 
