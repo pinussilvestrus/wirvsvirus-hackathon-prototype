@@ -18,6 +18,10 @@ Der Klick-Prototyp zeigt, wie man innerhalb einer mobilen App häusliche Challen
 
 ![](./resources/screencast.gif)
 
+## Contributors
+
+<img src="https://raw.githubusercontent.com/pinussilvestrus/wirvsvirus-hackathon-prototype/master/resources/cl.png" height="48"/> <a href="https://github.com/hkiefer" target="_blank"><img src="https://raw.githubusercontent.com/pinussilvestrus/wirvsvirus-hackathon-prototype/master/resources/hk.png" height="48"/></a> <a href="https://github.com/pinussilvestrus" target="_blank"><img src="https://raw.githubusercontent.com/pinussilvestrus/wirvsvirus-hackathon-prototype/master/resources/nk.png" height="48"/></a>
+
 ## Built with
 
 <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/pinussilvestrus/wirvsvirus-hackathon-prototype/master/resources/figma-logo.png" height="64" /></a>
